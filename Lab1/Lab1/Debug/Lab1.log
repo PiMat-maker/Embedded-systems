@@ -1,0 +1,10 @@
+﻿  Lab1.cpp
+d:\embedded systems\lab1\lab1\hal.h(31): error C2065: uint: необъявленный идентификатор
+d:\embedded systems\lab1\lab1\hal.h(31): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "gpio_port"
+d:\embedded systems\lab1\lab1\hal.h(32): error C2065: uint: необъявленный идентификатор
+d:\embedded systems\lab1\lab1\hal.h(32): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "gpio_port"
+d:\embedded systems\lab1\lab1\hal.h(33): error C2065: uint: необъявленный идентификатор
+d:\embedded systems\lab1\lab1\hal.h(33): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "gpio_port"
+d:\embedded systems\lab1\lab1\hal.h(34): error C2065: uint: необъявленный идентификатор
+d:\embedded systems\lab1\lab1\hal.h(34): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "delay_ms"
+d:\embedded systems\lab1\lab1\hal.h(36): fatal error C1020: непредвиденный #endif
